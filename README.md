@@ -1,1 +1,3 @@
-# tugas22_js
+# Tugas Fungsi ForEach
+ 
+![tugas 22](tgs.png)
